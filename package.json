@@ -1,0 +1,9 @@
+{
+  "name": "first",
+  "version": "1.0.0",
+  "description": "First test AI from tensorflow.js",
+  "main": "app.js",
+  "dependencies": {
+    "@tensorflow/tfjs": "^3.6.0"
+  }
+}
